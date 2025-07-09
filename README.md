@@ -11,6 +11,7 @@ Glucogard is a mobile application designed to help manage and monitor glucose le
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
+- [Product Demo](##Glucoguard-Demo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -242,7 +243,8 @@ glucogard/
 └── types/                   # TypeScript type definitions
     └── database.ts          # Types generated from Supabase schema (potentially)
 ```
-
+##Glucoguard-Demo
+- (GLUCOGUARD AI)[https://drive.google.com/file/d/1_AdsiCOaRMzes5fyzX95P50XmPH_-_br/view?usp=sharing]
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
